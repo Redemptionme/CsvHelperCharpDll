@@ -1,2 +1,2 @@
 # CsvHelperCharpDll
-CsvHelper 编译后的dll
+CsvHelper 编译后的dll(Release)
